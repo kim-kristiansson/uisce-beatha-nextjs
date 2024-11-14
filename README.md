@@ -1,1 +1,1 @@
-# whisky-club-nextjs
+# uisce-beatha-nextjs
